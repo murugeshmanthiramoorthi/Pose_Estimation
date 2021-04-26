@@ -3,7 +3,7 @@
 This is a python application to determine the position of various body parts.
 
 ## Input image
-![](https://github.com/murugeshmanthiramoorthi/Pose_Estimation/blob/main/OutPut-image.png)
+![](https://github.com/murugeshmanthiramoorthi/Pose_Estimation/blob/main/stand.jpg)
 
 ## Output image
-![](https://github.com/murugeshmanthiramoorthi/Pose_Estimation/blob/main/stand.jpg)
+![](https://github.com/murugeshmanthiramoorthi/Pose_Estimation/blob/main/OutPut-image.png)
